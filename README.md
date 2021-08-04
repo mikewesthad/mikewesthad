@@ -13,9 +13,9 @@ As an educator, I have taught creative applications of programming across all ag
 - Portfolio: [mikewesthad.com](https://www.mikewesthad.com)
 - Get in touch via mikewesthad@gmail.com or via [my contact form](https://www.mikewesthad.com/contact).
 
-## Get in Touch
+<!-- ## Get in Touch
 
 <a href="https://www.mikewesthad.com"><img src="https://raw.githubusercontent.com/mikewesthad/mikewesthad/main/images/browsers-outline.svg" width="40"></a>
 <a href="https://www.linkedin.com/in/michaelwesthadley/"><img src="https://raw.githubusercontent.com/mikewesthad/mikewesthad/main/images/logo-linkedin.svg" width="40"></a>
 <a href="https://www.youtube.com/user/mikewesthad"><img src="https://raw.githubusercontent.com/mikewesthad/mikewesthad/main/images/logo-youtube.svg" width="40"></a>
-<a href="https://www.mikewesthad.com/contact"><img src="https://raw.githubusercontent.com/mikewesthad/mikewesthad/main/images/mail-outline.svg" width="40"></a>
+<a href="https://www.mikewesthad.com/contact"><img src="https://raw.githubusercontent.com/mikewesthad/mikewesthad/main/images/mail-outline.svg" width="40"></a> -->
