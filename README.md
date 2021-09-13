@@ -8,7 +8,7 @@ As an educator, I have taught creative applications of programming across all ag
 
 ## Info
 
-- Current role: Learning Product Developer and Assistant Professor at Columbia College Chicago in the [Interactive Arts and Media Department](https://www.colum.edu/academics/media-arts/interactive-arts-and-media/index).
+- Current role: Software Engineer at [Replit](https://replit.com/).
 - Pronouns: he/him/his.
 - Portfolio: [mikewesthad.com](https://www.mikewesthad.com)
 - Get in touch via mikewesthad@gmail.com or via [my contact form](https://www.mikewesthad.com/contact).
